@@ -10,7 +10,7 @@ This is a custom FiveM firearm registration system featuring a NUI-based interfa
 
 ## 📸 Preview
 
-### 🔫 Register Firearm UI
+### 🔫 Firearm Registration UI
 ![Register UI](https://i.ibb.co/B2r2f9zK/fa-tebex-img.png)
 
 ### 💾 MDT Preview Image #1
